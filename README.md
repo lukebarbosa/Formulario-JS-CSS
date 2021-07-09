@@ -1,3 +1,3 @@
 # mini-projeto
 
-# mini-projeto de um formulário que salva os dados inseridos em um array.
+mini-projeto de um formulário que salva os dados inseridos em um array.
