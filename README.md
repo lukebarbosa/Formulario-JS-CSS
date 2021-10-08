@@ -1,6 +1,6 @@
 # Formulario
 
-mini-projeto de um formulário que salva os dados inseridos em um array que contem vários objetos.
+Um formulário que salva os dados inseridos em um array que contem vários objetos.
 
 <div class="box">
 <img src="https://github.com/lukebarbosa/mini-projeto/blob/main/img/tela%20inicial.png" alt="tela-inicial" height="350px">
